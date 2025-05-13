@@ -1,0 +1,30 @@
+.root {
+-fx-background-color: #cde8cd;
+}
+
+#algBox {
+    -fx-font: normal 40px Minecraft;
+    -fx-text-fill: linear-gradient(green, blue);
+}
+
+.button {
+    -fx-font: normal 20px Minecraft;
+}
+
+#algSelect {
+    -fx-font: normal 27px Minecraft;
+}
+
+#setStatus {
+    -fx-font: normal 18px Minecraft;
+}
+
+#Fields{
+    -fx-min-width: 5px;
+    -fx-min-height: 30px;
+    -fx-font: normal 20px Minecraft;
+    -fx-alignment: center;
+}
+#back{
+    -fx-alignment: top-left;
+}
